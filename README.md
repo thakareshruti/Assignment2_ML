@@ -10,13 +10,11 @@ The dataset used in this project is the UCI Default of Credit Card Clients datas
 
 To make the data consistent with the original specification, invalid EDUCATION values (0, 5, 6) were mapped to the nearest valid category, and invalid MARRIAGE values (0) were corrected. Duplicate rows were removed to avoid repeated records affecting the model. The final dataset was then split into an 80/20 stratified train/test set for evaluation.
 
-# GitHub Repository Link
+# URLs
 
-Placeholder: https://github.com/yourusername/your-repository
+GitHub Repository Link: https://github.com/thakareshruti/Assignment2_ML
 
-# Live Streamlit App Link
-
-Placeholder: https://github.com/yourusername/your-repository
+Live Streamlit App Link: https://shrutiithakare.streamlit.app
 
 # Models Used
 
